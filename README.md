@@ -7,7 +7,6 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000)](https://www.linkedin.com/in/nicol%C3%A1s-dur%C3%A1n-campos-351411269/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Storbo2/NicoDuranC)
 [![GMail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000)](mailto:nico.duran.work@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=000000)](https://discordapp.com/users/487793257338896396)
 <br><hr>
 
 ### Herramientas de programación
