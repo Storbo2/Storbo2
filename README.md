@@ -46,6 +46,7 @@ Proyecto educativo y tecnológico enfocado en la enseñanza de programación, ba
 <br>
 [![GitHub](https://img.shields.io/badge/Minecraft%20USM-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/TeleMinecraft)
 [![Instagram](https://img.shields.io/badge/Minecraft%20USM-d62976?style=for-the-badge&logo=instagram&logoColor=d62976&labelColor=000000)](https://www.instagram.com/comunidad.minecraft.usm/)
+<br>
 ### 📱 Aplicaciones móviles
 Desarrollo de aplicaciones Android utilizando Kotlin y Firebase, con publicación en Google Play Store.
 <br>
