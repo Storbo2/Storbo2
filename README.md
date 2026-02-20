@@ -16,16 +16,16 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 [![Css](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css&logoColor=2965f1&labelColor=000000)](#)
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)](#)
 
+### Bases de datos
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=000000)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF9100&labelColor=000000)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=97d9f6&labelColor=000000)](#)
+
 ### Frameworks y Librerías
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DBFB&labelColor=000000)](#)
 [![Next](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=0070F3&labelColor=000000)](#)
 [![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=000000)](#)
 [![TailWindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=4dc0b5&labelColor=000000)](#)
-
-### Bases de datos
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F&labelColor=000000)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF9100&labelColor=000000)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=97d9f6&labelColor=000000)](#)
 
 ### Herramientas y otros lenguajes
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F1502F&labelColor=000000)](#)
