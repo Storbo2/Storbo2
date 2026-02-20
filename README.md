@@ -1,7 +1,5 @@
 # Nicolás Durán
 ## Ing en Computación e Informática - Universidad Andrés Bello
-<br>
-
 Estudiante de Ingeniería en Computación e Informática especializado en desarrollo de software, con experiencia práctica en proyectos académicos y profesionales, me destaco por una rápida adaptación y el trabajo en equipo.
 Cuento con múltiples experiencias programando sitios web y aplicaciones móviles, además de soporte técnico TI, lo que aporta una visión integral del ciclo completo de los sistemas y del usuario final. 
 Busco poder aplicar mis conocimientos en proyectos prácticos que contribuyan al desarrollo de infraestructuras inteligentes e innovadoras, mientras continúo mejorando profesionalmente.
@@ -10,9 +8,9 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 [![Linkedin](https://img.shields.io/badge/ℹ️_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000)](https://www.linkedin.com/in/nicol%C3%A1s-dur%C3%A1n-campos-351411269/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Storbo2/NicoDuranC)
 [![GMail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000)](mailto:nico.duran.work@gmail.com)
-<br><hr>
+<br><br><hr>
 
-### Lenguajes principales y Web
+## Lenguajes principales y Web
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=f7df1e&labelColor=)](#)
 [![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E34C26&labelColor=000000)](#)
 [![Css](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css&logoColor=2965f1&labelColor=000000)](#)
@@ -40,9 +38,15 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 [![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=B0B3D6&labelColor=000000)](#)
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=ED8B00&labelColor=000000)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=000000)](#)
-<br><hr>
+<br><br><hr>
 
 ## Proyectos personales
+### 🟩 Comunidad Minecraft USM
+Proyecto educativo y tecnológico enfocado en la enseñanza de programación, bases de datos y electrónica digital mediante un entorno gamificado. Incluyó la gestión de servidores, desarrollo de plugins y realización de talleres para estudiantes universitarios.
+<br>
 [![GitHub](https://img.shields.io/badge/Minecraft%20USM-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/TeleMinecraft)
 [![Instagram](https://img.shields.io/badge/Minecraft%20USM-d62976?style=for-the-badge&logo=instagram&logoColor=d62976&labelColor=000000)](https://www.instagram.com/comunidad.minecraft.usm/)
+### 📱 Aplicaciones móviles
+Desarrollo de aplicaciones Android utilizando Kotlin y Firebase, con publicación en Google Play Store.
+<br>
 [![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-4285F4?style=for-the-badge&logo=google-play&logoColor=4285F4&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
