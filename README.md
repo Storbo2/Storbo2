@@ -50,7 +50,7 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 Librería **JavaScript / TypeScript** para auditoría automática de páginas web que analiza accesibilidad, SEO, HTML semántico, rendimiento, seguridad y formularios.
 Incluye **análisis del DOM en tiempo real, overlay visual interactivo y generación de reportes exportables**.
 <br>
-[![GitHub](https://img.shields.io/badge/Web%20Audit%20Helper-278EF5?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/Storbo2/web-audit-helper)
+[![GitHub](https://img.shields.io/badge/Web%20Audit%20Helper-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=000000)](https://github.com/Storbo2/web-audit-helper)
 
 <br>
 
