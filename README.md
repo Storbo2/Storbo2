@@ -1,7 +1,7 @@
 # Nicolás Durán
 ## Ing en Computación e Informática - Universidad Andrés Bello
-Estudiante de Ingeniería en Computación e Informática especializado en desarrollo de software, con experiencia práctica en proyectos académicos y profesionales, me destaco por una rápida adaptación y el trabajo en equipo.
-Cuento con múltiples experiencias programando sitios web y aplicaciones móviles, además de soporte técnico TI, lo que aporta una visión integral del ciclo completo de los sistemas y del usuario final. 
+Estudiante de Ingeniería en Computación e Informática especializado en **desarrollo de software**, con experiencia práctica en proyectos académicos y profesionales, me destaco por una rápida adaptación y el trabajo en equipo.
+Cuento con múltiples experiencias programando **sitios web y aplicaciones móviles**, además de **soporte técnico TI**, lo que aporta una visión integral del ciclo completo de los sistemas y del usuario final. 
 Busco poder aplicar mis conocimientos en proyectos prácticos que contribuyan al desarrollo de infraestructuras inteligentes e innovadoras, mientras continúo mejorando profesionalmente.
 
 Como programador participo en múltiples proyectos, tanto por el área profesional, como hobbys personales.<br><br>
@@ -41,13 +41,26 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 <br><br><hr>
 
 ## Proyectos personales
+
+### 🧠 Web Audit Helper (WAH)
+[![npm version](https://img.shields.io/npm/v/web-audit-helper?cacheSeconds=300)](https://www.npmjs.com/package/web-audit-helper)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last commit](https://img.shields.io/github/last-commit/Storbo2/web-audit-helper)
+<br>
+Librería **JavaScript / TypeScript** para auditoría automática de páginas web que analiza accesibilidad, SEO, HTML semántico, rendimiento, seguridad y formularios.
+Incluye **análisis del DOM en tiempo real, overlay visual interactivo y generación de reportes exportables**.
+<br>
+[![GitHub](https://img.shields.io/badge/Web%20Audit%20Helper-278EF5?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/Storbo2/web-audit-helper)
+
+<br>
+
 ### 🟩 Comunidad Minecraft USM
-Proyecto educativo y tecnológico enfocado en la enseñanza de programación, bases de datos y electrónica digital mediante un entorno gamificado. Incluyó la gestión de servidores, desarrollo de plugins y realización de talleres para estudiantes universitarios.
+Proyecto educativo y tecnológico enfocado en la **enseñanza de programación, bases de datos y electrónica digital mediante un entorno virtual**. Incluyó la gestión de servidores, desarrollo de plugins y realización de **talleres para estudiantes universitarios**.
 <br>
 [![GitHub](https://img.shields.io/badge/Minecraft%20USM-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/TeleMinecraft)
 [![Instagram](https://img.shields.io/badge/Minecraft%20USM-d62976?style=for-the-badge&logo=instagram&logoColor=d62976&labelColor=000000)](https://www.instagram.com/comunidad.minecraft.usm/)
-<br>
+<br><br>
 ### 📱 Aplicaciones móviles
-Desarrollo de aplicaciones Android utilizando Kotlin y Firebase, con publicación en Google Play Store.
+Desarrollo de aplicaciones Android utilizando **Kotlin y Firebase**, con publicación en **Google Play Store**.
 <br>
 [![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-4285F4?style=for-the-badge&logo=google-play&logoColor=4285F4&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
