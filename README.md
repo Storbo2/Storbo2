@@ -50,7 +50,7 @@ Como programador participo en múltiples proyectos, tanto por el área profesion
 Librería **JavaScript / TypeScript** para auditoría automática de páginas web que analiza accesibilidad, SEO, HTML semántico, rendimiento, seguridad y formularios.
 Incluye **análisis del DOM en tiempo real, overlay visual interactivo y generación de reportes exportables**.
 <br>
-[![GitHub](https://img.shields.io/badge/Web%20Audit%20Helper-38BDF8?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=000000)](https://github.com/Storbo2/web-audit-helper)
+[![GitHub](https://img.shields.io/badge/Web%20Audit%20Helper-0DA2BF?style=for-the-badge&logo=github&logoColor=0DA2BF&labelColor=000000)](https://github.com/Storbo2/web-audit-helper)
 
 <br>
 
@@ -63,4 +63,4 @@ Proyecto educativo y tecnológico enfocado en la **enseñanza de programación, 
 ### 📱 Aplicaciones móviles
 Desarrollo de aplicaciones Android utilizando **Kotlin y Firebase**, con publicación en **Google Play Store**.
 <br>
-[![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-4285F4?style=for-the-badge&logo=google-play&logoColor=4285F4&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
+[![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-1449A6?style=for-the-badge&logo=google-play&logoColor=1449A6&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
